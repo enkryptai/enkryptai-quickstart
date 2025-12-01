@@ -44,7 +44,7 @@ This quickstart guide is organized as a series of interactive notebooks. Follow 
 
 ## Examples
 
-The `examples/` directory contains production-ready code samples demonstrating common use cases. Each example includes both a Python script (`.py`) and an interactive notebook (`.ipynb`) version.
+The `examples/` directory contains production-ready code samples demonstrating common use cases. Most examples include both a Python script (`.py`) and an interactive notebook (`.ipynb`) version.
 
 ### 1. Prompt Injection Guardrails
 
@@ -207,3 +207,4 @@ Questions? Reach out to our team or check our [documentation](https://docs.enkry
 ---
 
 **Ship Fast. Ship Safe. Stay Ahead.**
+
