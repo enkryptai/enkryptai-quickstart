@@ -11,13 +11,13 @@ load_dotenv()
 # ============================================
 
 # Specify the test name from your red team test
-TEST_NAME = "ENTER_TEST_NAME_HERE"
+TEST_NAME = "ENTER TEST NAME HERE"
 
 # API Key - loads from environment or can be overridden
 ENKRYPT_API_KEY = os.getenv('ENKRYPTAI_API_KEY')
 
 # Uncomment and set if you want to override the API key from environment
-ENKRYPT_API_KEY = "***YOUR API KEY HERE***"
+ENKRYPT_API_KEY = "YOUR ENKRYPTAI API KEY HERE"
 
 # ============================================
 # Download Red Team Results
